@@ -6,8 +6,3 @@ def NumNum (N):
       result = result*i
       print  (result, ',', end = '')     
 NumNum (N)
-
-# for i in range (1, N):
-#         a.append(a[i-1]*(i))
-# while len(a)<N:
-#         a.append(a[-1]*a[])
